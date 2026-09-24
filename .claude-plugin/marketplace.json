@@ -1,0 +1,21 @@
+{
+  "name": "itsaspacestation",
+  "description": "Claude Code plugins by itsaspacestation, each in its own repository.",
+  "owner": {
+    "name": "Clément Boudereau",
+    "url": "https://github.com/itsaspacestation"
+  },
+  "plugins": [
+    {
+      "name": "ni",
+      "source": {
+        "source": "github",
+        "repo": "itsaspacestation/natural-intelligence"
+      },
+      "description": "ni, natural intelligence: terse replies, TDD, DDD, git conventions, code and merge request reviews, .NET and Rust builds, planning, and evidence-based analysis.",
+      "homepage": "https://github.com/itsaspacestation/natural-intelligence",
+      "license": "Apache-2.0",
+      "category": "development"
+    }
+  ]
+}
